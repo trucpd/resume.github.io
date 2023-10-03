@@ -1,2 +1,1 @@
-# Make America Great Again
-# Truc Pham
+# Résumé of Truc Pham
