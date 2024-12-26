@@ -5,7 +5,7 @@
 📧 [truc@amediomedia.com](mailto:truc@amediomedia.com)  
 📞 (+84) 935385695  
 🌐 [LinkedIn](https://www.linkedin.com/in/trucdp/)  
-💻 [GitHub](https://github.com/abcxyzbank/)
+💻 [GitHub](https://github.com/abcxyzbank)  
 ---
 
 ## **Education**  
