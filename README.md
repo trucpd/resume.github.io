@@ -25,7 +25,7 @@ DevOps Engineer with over 3 years of experience in software development on conta
 
 ### US Automotive Client (FPT Software)  
 **DevOps Engineer**  
-*Ho Chi Minh City, 2022 - 2024*  
+*Ho Chi Minh City, 2022 - Present*  
 
 - **Set up GitHub Runners on EKS with auto-scaling**: Deployed and configured GitHub Runners on Amazon EKS, enabling high availability and scalability. Integrated auto-scaling to efficiently handle dynamic workloads, with IP whitelisting for enhanced security. Used **New Relic** for monitoring runner performance, identifying oversizing risks, and ensuring system reliability.  
 - **Debugging API Connect on IBM DataPower**: Developed a Python3-based utility to manage DataPower probes by running Kubernetes jobs, enabling/disabling probes dynamically for API debugging with minimal impact on infrastructure performance.  
@@ -34,7 +34,7 @@ DevOps Engineer with over 3 years of experience in software development on conta
 
 ### Banking Client (FPT Software)  
 **DevOps Engineer**  
-*Ho Chi Minh City, 2021 - 2022*  
+*Ho Chi Minh City, 2022 - 2023*  
 
 - Set up **GitLab Runner** on EKS using Spot Instances, significantly reducing infrastructure costs while maintaining scalability and reliability for CI/CD workloads.  
 - Migrated 10 GitHub Actions workflows to **GitHub Runners**, optimizing pipeline performance and reducing operational overhead.  
